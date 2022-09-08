@@ -35,6 +35,7 @@ def playgame():
     attempts+=1
     cows=0
     bulls=0
+    print("WELCOME TO THE COWS AND BULLS GAME")
     print(number)
     choice = input("please enter 4 digit number to guess")
     guess = []
